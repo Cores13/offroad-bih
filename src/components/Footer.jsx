@@ -11,8 +11,8 @@ export const Footer = () => {
             <div className="d-flex flex-column m-auto">
                 <div className="col-12 text-center d-flex flex-column m-auto center align-items-center">
                     <h4>Kontaktirajte nas</h4>
-                    <p>Tel: +387 63 886 467</p>
-                    <p>E-mail: info@offroad.ba</p>
+                    <p>Tel: +387 61 062 063</p>
+                    <p>E-mail: info@example.com</p>
                 </div>
             </div>
         </div>
