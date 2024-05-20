@@ -20,12 +20,12 @@ function App() {
 
               <div className="infom">
                   <p>Kontaktirajte nas putem telefona</p>
-                  <p style={{color: "#F5A30F", fontSize: "25px"}}>+387 63 886 467</p>
+                  <p style={{color: "#F5A30F", fontSize: "25px"}}>+387 61 062 063</p>
               </div>
 
               <div className="infom">
                   <p>Kontaktirajte nas putem email-a</p>
-                  <p style={{color: "#F5A30F", fontSize: "25px"}}>info@offroad.ba</p>
+                  <p style={{color: "#F5A30F", fontSize: "25px"}}>info@example.com</p>
               </div>
 
         </div>
